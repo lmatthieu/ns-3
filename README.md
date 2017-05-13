@@ -1,7 +1,7 @@
 ns-3
 ===================
 
-A network-simulator 3 template
+A network-simulator 3 Dockerfile
 
 
 LICENSE
